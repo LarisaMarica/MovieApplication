@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075031266297",
+    "firebase_url": "https://movies-39976-default-rtdb.firebaseio.com",
+    "project_id": "movies-39976",
+    "storage_bucket": "movies-39976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075031266297:android:796efa42341116f788a328",
+        "android_client_info": {
+          "package_name": "com.example.netflix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075031266297-lckemqvaagcklaea4r57fovij3oaur51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTu83fdSuYdRy2LwqxO6iqx68CcposnVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075031266297-lckemqvaagcklaea4r57fovij3oaur51.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075031266297-b5je4ns5ttvdviav6crnfopnnln90k6d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.netflix.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
